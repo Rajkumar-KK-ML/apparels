@@ -1,0 +1,4 @@
+shirt
+pant
+shorts
+tees
